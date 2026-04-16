@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "lib_proj.slnx",
+    "projects": [
+      "lib_proj\\lib_proj.csproj"
+    ]
+  }
+}
